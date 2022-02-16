@@ -1,4 +1,7 @@
-# Dillinger
+**OBJECTIVE:**
+   1. Study static and dynamic characteristics of RTD
+   2. Study effect of various parameters on RTD performance
+
 # *Prerequisite:*
 
 
