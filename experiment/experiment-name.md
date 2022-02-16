@@ -1,1 +1,1 @@
-## Experiment name
+## Characterize the temperature sensor (RTD)
