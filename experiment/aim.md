@@ -1,1 +1,1 @@
-## To understand the working principle of RTD.
+## To understand the working principle of RTD
