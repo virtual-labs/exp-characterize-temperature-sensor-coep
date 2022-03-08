@@ -18,7 +18,7 @@
       "answers": {
         "a": "Coldness",
         "b": "Hotness",
-        "c": "Hotness or Coldness",
+        "c": "Hotness or Coldness"
       },
       
       "correctAnswer": "c",
