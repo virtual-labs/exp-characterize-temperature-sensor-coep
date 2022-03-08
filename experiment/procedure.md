@@ -26,22 +26,22 @@ In this experiment,  Platinum RTD is used for calculating the time constant valu
 
 Verify this by using equation given under Get formula tab. 
 
-2.     Now select the RTD dynamic performance with sheath. Select appropriate material and thickness value. The time constant value will get displayed in the output box.
+2. Now select the RTD dynamic performance with sheath. Select appropriate material and thickness value. The time constant value will get displayed in the output box.
 
 Verify this by using equation given under formula tab.
 
-3.    Observe the change in the time constant values with different materials with different thickness.
+3. Observe the change in the time constant values with different materials with different thickness.
 
-4.  Now select the RTD dynamic performance with thermowell. Select appropriate material, thickness and filling material. The time constant value will get  displayed in the output box when thermowell material, thickness and filling material is selected.
+4. Now select the RTD dynamic performance with thermowell. Select appropriate material, thickness and filling material. The time constant value will get  displayed in the output box when thermowell material, thickness and filling material is selected.
 
 Verify this by using equation given under formula tab.
 
-5.    Observe the change in the time constant values with different materials with different thickness.
+5. Observe the change in the time constant values with different materials with different thickness.
 
 Also see the effect of change in filling material.
 
-6.    Click on plot button to observe the dynamic response  (Time Vs Temperature).
+6. Click on plot button to observe the dynamic response  (Time Vs Temperature).
 
-7.    Observe and verify  response time of RTD which is generally 5 times  the time constant value.
+7. Observe and verify  response time of RTD which is generally 5 times  the time constant value.
 
 After completion of both the parts, you can proceed to Post Test to find out if you have understood all aspects of the experiment.
