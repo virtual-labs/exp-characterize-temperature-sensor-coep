@@ -2,37 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Transducer is a device",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "that converts one form of energy into another form",
+        "b": "has mostly eletrical output",
+        "c": "with both the above properties",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Temperature is measure of degree of -------- of a substance",
+      "answers": {
+        "a": "Coldness",
+        "b": "Hotness",
+        "c": "Hotness or Coldness"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The International System of Measurements (SI) use -------- scale for measuring temperature",
+      "answers": {
+        "a": "Celcius",
+        "b": "Kelvin",
+        "c": "Farenheit",
+        "d": "Degree"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The freezing point of pure water is",
+      "answers": {
+        "a": "0 deg C",
+        "b": "5 deg C",
+        "c": "10 deg C",
+        "d": "-1 deg C"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Accurarcy and range of measurement does not depend upon",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The temperature being measured",
+        "b": "The size of system under measurement",
+        "c": "The construction of the sensor",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
