@@ -116,12 +116,12 @@ The criterions for selecting a material for an RTD:
 
 ### Factors that influence the sensor response:
 
-• Thermal lag  when combined with the thermowell
-• Immersion length
-• Flow velocity of the process fluid
-• Process fluid transients
-• Fluid boundary or film on sensing surface
-• Influences from wall or vessel
+• Thermal lag  when combined with the thermowell \
+• Immersion length \
+• Flow velocity of the process fluid \
+• Process fluid transients \
+• Fluid boundary or film on sensing surface \
+• Influences from wall or vessel \
 • Environmental factors
 
 6. Insulation resistance: It is the largest cause of errors and failure of RTD. The causes can be an inadequate seal, high humidity environment, or a failed seal. In some cases baking the RTD assembly will increase the insulation resistance and recover the RTD.
