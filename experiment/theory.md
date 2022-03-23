@@ -32,11 +32,11 @@ For measurement of Temperature number of sensors are available. One of the most 
 Resistance Temperature Detector (RTD), as the name implies, is a sensor used to measure temperature by correlating the resistance with temperature. Most RTD elements consist of a length of fine coiled wire wrapped around a ceramic or glass core. The element is usually quite fragile, so it is often placed inside a sheathed probe to protect it. The RTD element is made from a pure metals as mentioned below. The material property to have predictable change in resistance as the temperature changes, is used to determine temperature.
 
 Commonly used RTD Materials:
-- Platinum (most popular and accurate)
-- Nickel
-- Copper
-- Balco (rare)
-- Tungsten (rare)
+* Platinum (most popular and accurate)
+* Nickel
+* Copper
+* Balco (rare)
+* Tungsten (rare)
 
 ### Temperature calculations:
 
@@ -95,12 +95,12 @@ Platinum RTDs are defined by standards such as DIN 43760 (BS1904), IEC 751-1983,
 
 The criterions for selecting a material for an RTD:
 
-- Malleability to form small wires.
-- Linear relationship of resistance and temperature.
-- Repeatability and stability.
-- Corrosion.
-- Low cost
-- Easy availability
+* Malleability to form small wires.
+* Linear relationship of resistance and temperature.
+* Repeatability and stability.
+* Corrosion.
+* Low cost
+* Easy availability
  
 ### RTD Performance Specifications: 
 1. Temperature Coefficient :It is the change in resistance of the material per degree change in temperature. This value should be as high as possible to give higher accuracy of temperature measurement.
@@ -116,13 +116,13 @@ The criterions for selecting a material for an RTD:
 
 ### Factors that influence the sensor response:
 
-• Thermal lag  when combined with the thermowell \
-• Immersion length \
-• Flow velocity of the process fluid \
-• Process fluid transients \
-• Fluid boundary or film on sensing surface \
-• Influences from wall or vessel \
-• Environmental factors
+* Thermal lag  when combined with the thermowell \
+* Immersion length \
+* Flow velocity of the process fluid \
+* Process fluid transients \
+* Fluid boundary or film on sensing surface \
+* Influences from wall or vessel \
+* Environmental factors
 
 6. Insulation resistance: It is the largest cause of errors and failure of RTD. The causes can be an inadequate seal, high humidity environment, or a failed seal. In some cases baking the RTD assembly will increase the insulation resistance and recover the RTD.
 
