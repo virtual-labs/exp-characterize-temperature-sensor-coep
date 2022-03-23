@@ -1,0 +1,64 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Transducer is a device",
+      "answers": {
+        "a": "that converts one form of energy into another form",
+        "b": "has mostly eletrical output",
+        "c": "with both the above properties",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Temperature is measure of degree of -------- of a substance",
+      "answers": {
+        "a": "Coldness",
+        "b": "Hotness",
+        "c": "Hotness or Coldness"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The International System of Measurements (SI) use -------- scale for measuring temperature",
+      "answers": {
+        "a": "Celcius",
+        "b": "Kelvin",
+        "c": "Farenheit",
+        "d": "Degree"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The freezing point of pure water is",
+      "answers": {
+        "a": "0 deg C",
+        "b": "5 deg C",
+        "c": "10 deg C",
+        "d": "-1 deg C"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Accurarcy and range of measurement does not depend upon",
+      "answers": {
+        "a": "The temperature being measured",
+        "b": "The size of system under measurement",
+        "c": "The construction of the sensor",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "RTD is very popular for temperature measurement because of",
+      "answers": {
+        "a": "Cost",
+        "b": "Self heating",
+        "c": "None of these",
+        "d": "Linearity"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the Pt100, the suffix 100 refers to",
+      "answers": {
+        "a": "Resistance at Room Temperature",
+        "b": "Resistance at 0 degree C",
+        "c": "100% pure platinum",
+        "d": "80% pure platinum"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Commonly used RTD Material is",
+      "answers": {
+        "a": "Platinum",
+        "b": "Aluminium",
+        "c": "Both of these",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "RTDs are preferred over thermistors because",
+      "answers": {
+        "a": "RTDs have larger temperature range than thermistors",
+        "b": "RTDs are more sensitive than thermistors",
+        "c": "RTD's are less sensitive to lead resistance than thermistors",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PTC stands for",
+      "answers": {
+        "a": "Platinum Temperature Coefficient",
+        "b": "Partial Temperature Coefficient",
+        "c": "Positive Temperature Coefficient",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
